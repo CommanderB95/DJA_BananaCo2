@@ -7,6 +7,7 @@ Desktop.ini
 
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
+Saved/
 
 # Windows Installer files
 *.cab
@@ -43,4 +44,4 @@ Temporary Items
 .apdisk
 
 #Ignore these directories
-Saved
+Saved/
