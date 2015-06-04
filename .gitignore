@@ -44,4 +44,4 @@ Temporary Items
 .apdisk
 
 #Ignore these directories
-Saved/
+dir_to_ignore/Saved
