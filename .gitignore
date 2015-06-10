@@ -45,4 +45,5 @@ Temporary Items
 
 #Ignore these directories
 Saved/
-Saved/Config/Windows/EditorLayout.ini
+dir_to_ignore/Saved
+Saved/Logs/BananaCo2.log
